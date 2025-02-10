@@ -37,6 +37,6 @@ uvicorn main:app --reload
 <img
   align="right"
 alt="coding"
-width="400"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGd2bG50OXlweTA4bGJuNHBzeDhxZ2Q0YW0yMHYzNng0cndtNWJhcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"
+width="100%"
+src="output-fast-api.png"
 />
