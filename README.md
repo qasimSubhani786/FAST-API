@@ -33,4 +33,10 @@ pip install -r requirements.txt
 ```sh
 uvicorn main:app --reload
 ```
-
+**OUTPUT**
+<img
+  align="right"
+alt="coding"
+width="400"
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGd2bG50OXlweTA4bGJuNHBzeDhxZ2Q0YW0yMHYzNng0cndtNWJhcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"
+/>
